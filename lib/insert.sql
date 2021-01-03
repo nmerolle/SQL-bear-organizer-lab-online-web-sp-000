@@ -8,7 +8,7 @@ INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES
 INSERT INTO bears (id, name, age, gender, color, temperament, alive) VALUES 
 ,
 ,
-(4,"Sargeant Brown", 19, "M", "Green", "Slimy", 0),
+,
 (5,"Melissa", 13, "F", "dark brown", "goofy", 1),
 (6,"Grinch", 2, "M", "Black", "Grinchy", 1),
 (7,"Wendy", 6, "F", "Blue", "naive", 1),
